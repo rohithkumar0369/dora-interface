@@ -3,7 +3,7 @@ name = "core"
 version = "1.0.0"
 
 [addresses]
-supra_oracle = "0x7b00569d23c3edd4538d0b6d8db15dd9f9c07e5d830f35b46afbaa670923b450"
+supra_oracle = "0xbf06f1338594a25e52202265c741864bc88093043a6a74e5ff52845a41983db0"
 
 
 [dependencies.SupraFramework]
